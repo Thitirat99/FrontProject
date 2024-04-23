@@ -1,0 +1,23 @@
+{
+  "name": "FRONTPROJECT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CollectDB.js",
+  "scripts": {
+    "start": "node CollectDB.js",
+    "dev": "nodemon CollectDB.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "install": "^0.13.0",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
